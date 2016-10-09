@@ -1,0 +1,12 @@
+c:\users\silvy\documents\visual studio 2012\Projects\Refactoring\Refactoring\bin\Debug\Refactoring.exe.config
+c:\users\silvy\documents\visual studio 2012\Projects\Refactoring\Refactoring\bin\Debug\Refactoring.exe
+c:\users\silvy\documents\visual studio 2012\Projects\Refactoring\Refactoring\bin\Debug\Refactoring.pdb
+c:\users\silvy\documents\visual studio 2012\Projects\Refactoring\Refactoring\obj\Debug\Refactoring.exe
+c:\users\silvy\documents\visual studio 2012\Projects\Refactoring\Refactoring\obj\Debug\Refactoring.pdb
+C:\Users\silvy\Documents\Visual Studio 2012\Projects\Refactoring\Refactoring\obj\Debug\Refactoring.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Refactoring\Refactoring\bin\Debug\Refactoring.exe.config
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Refactoring\Refactoring\obj\Debug\Refactoring.exe
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Refactoring\Refactoring\obj\Debug\Refactoring.pdb
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Refactoring\Refactoring\bin\Debug\Refactoring.exe
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Refactoring\Refactoring\bin\Debug\Refactoring.pdb
+C:\Users\Diego\Documents\Visual Studio 2012\Projects\Refactoring\Refactoring\obj\Debug\Refactoring.csprojResolveAssemblyReference.cache
